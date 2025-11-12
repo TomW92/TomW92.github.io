@@ -7,16 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am a researcher at the University of Bern, Switzerland.
+Hi, my name is Tom!
 
-Research Interests
-======
-My research focuses on [add your research areas here].
+I am a cognitive neuroscientist based at the University of Bern. 
 
-Background
-======
-I am currently a researcher at the University of Bern, Switzerland.
+My research focusses on affective states, memory, and I am passionate about transparent and reproducible science.
 
-Contact
-======
-Feel free to reach out to me at tom.willems@unibe.ch for research collaborations or inquiries.
+Feel free to reach out to me for research collaborations or inquiries.
