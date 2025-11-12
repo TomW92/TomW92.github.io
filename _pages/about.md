@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Tom Willems - Neuroscientist"
 author_profile: true
 redirect_from: 
   - /about/
