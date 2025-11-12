@@ -23,14 +23,14 @@ repository               : "TomW92/TomW92.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Tom Eric Willems Portrait 2025.jpg"
   name             : "Tom Eric Willems"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at University of Bern"
   location         : "Bern, Switzerland"
   employer         : "University of Bern"
   uri              : # URL
-  email            : "tom.willems@unibe.ch" 
+  email            : "tomericwillems@pm.me" 
 
   # Academic websites
   academia         : # URL
