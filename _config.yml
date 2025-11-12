@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tom Willems"
+title                    : "Tom Eric Willems"
 title_separator          : "-"
-name                     : &name "Tom Willems"
-description              : &description "Tom Willems' academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Tom Eric Willems"
+description              : &description "Tom Eric Willems' academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://tomw92.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "TomW92/TomW92.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tom Willems"
+  name             : "Tom Eric Willems"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at University of Bern"
   location         : "Bern, Switzerland"
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=SuO6ke0AAAAJ&hl=en # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-9872-0724 # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Tom-Willems-3?ev=hdr_xprf # URL
   scopus           : # URL
 
   # Repositories and software development
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : @tomwillems.bsky.social # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
