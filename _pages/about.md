@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tom Willems - Cognitive Neuroscientist"
+title: "Tom Eric Willems"
 author_profile: true
 redirect_from: 
   - /about/
