@@ -3,7 +3,7 @@
 a cognitive neuroscientist interested in memory, and open science.
 I study how the human brain represents memories, and I am passionate about transparent and reproducible science.
 
-I’m currently based at the University of Bern.
+I’m currently based at the University of Zurich.
 
 On this site you can find my CV, a list of publications, and ways to get in touch.
 
